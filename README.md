@@ -9,4 +9,6 @@ Materiais das aulas de Interação Humano-Computador do curso superior de Tecnol
   <li><b>Melhorando a Experiência do Usuário em Plataformas de Atendimento Veterinário Domiciliar: O Caso da PawKeepr: </b>Airla</li>
   <li><b>Como podemos ajudar pessoas com deficiência visual a se sentirem seguras durante pagamentos no mundo físico: </b>Thaylanne e Daiane</li>
   <li><b>Reflexão em Jogo: Investigando a Comunicabilidade de um Jogo Crítico de Tomada de Decisão: </b>Alberto e José Eudes</li>  
+  <li><b>Combinando Inteligência Artificial Generativa e Inspeção Humana: Uma Análise da Usabilidade do Site da Greenpeace Brasil: </b> Alanny Barbosa Cavalcante, Julio César Emanuel</li>
+  <li><b>Melhoria da experiência do usuário na carteira de trabalho digital: </b> Joedson</li>
 </ol>
