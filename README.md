@@ -6,5 +6,7 @@ Materiais das aulas de Interação Humano-Computador do curso superior de Tecnol
 <H3>Temas e Equipes dos Seminários (2024.2)</H3>
 <ol>
   <li><b>Promovendo Cultura de Design em um Instituto de Ciência e Tecnologia no Brasil: </b>João Vitor e Vinicius</li>
+  <li><b>Melhorando a Experiência do Usuário em Plataformas de Atendimento Veterinário Domiciliar: O Caso da PawKeepr: </b>Airla</li>
+  <li><b>Melhorando a Experiência do Usuário em Plataformas de Atendimento Veterinário Domiciliar: O Caso da PawKeepr: </b>Airla</li>
   
 </ol>
