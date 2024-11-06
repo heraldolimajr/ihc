@@ -14,4 +14,5 @@ Materiais das aulas de Interação Humano-Computador do curso superior de Tecnol
   <li><b>Designer centrado no Usuário na construção de um sistema de gestão de dados para a Equoterapia: </b> Higor Alan e Maria Klara </li>
   <li><b>Ferramentas de dados para análise e mensuração de User
 Experience (UX): funcionalidades, barreiras e oportunidades: </b> Caren e Mikaela</li>
+  <li><b>Modulação de Personalidade em IA’s Generativas:Melhorando Interações Homem-Máquina: </b>Mair e David</li>
 </ol>
