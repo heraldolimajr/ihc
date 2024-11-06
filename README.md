@@ -12,6 +12,5 @@ Materiais das aulas de Interação Humano-Computador do curso superior de Tecnol
   <li><b>Combinando Inteligência Artificial Generativa e Inspeção Humana: Uma Análise da Usabilidade do Site da Greenpeace Brasil: </b> Alanny Barbosa Cavalcante, Julio César Emanuel</li>
   <li><b>Melhoria da experiência do usuário na carteira de trabalho digital: </b> Joedson</li>
   <li><b>Designer centrado no Usuário na construção de um sistema de gestão de dados para a Equoterapia: </b> Higor Alan e Maria Klara </li>
-  <li><b>Designer centrado no Usuário na construção de um sistema de gestão de dados para a Equoterapia: </b> Higor Alan e Maria Klara </li>
   <li><b>Promovendo Cultura de Design em um Instituto de Ciência e Tecnologia no Brasil: </b> Daiane Ribeiro</li>
 </ol>
